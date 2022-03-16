@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "./ethers",
+    "./ethers-contract",
+    "./ethers-providers",
+    "./ethers-signers",
+    "./ethers-core",
+]
