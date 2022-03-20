@@ -1,3 +1,11 @@
+# Generator for Ethers-rs Client Code for sol Contracts
+
+## How to run
+```asm
+cd examples
+cargo run --package ethers --example abigen -- <name> <abi.json>
+```
+
 # <h1 align="center"> ethers.rs </h1>
 
 **Complete Ethereum and Celo wallet implementation and utilities in Rust**
